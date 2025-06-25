@@ -6,6 +6,8 @@ This project simulates the behavior of a capacitor in an RC circuit.
 
 ![Voltage Plot](voltage_plot.png)
 
+![discharging Plot] (discharging_plot.png)
+
 ## 📦 File Overview
 
 | File               | Purpose                            |

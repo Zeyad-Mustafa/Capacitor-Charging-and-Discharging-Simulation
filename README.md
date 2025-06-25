@@ -1,14 +1,15 @@
-# Capacitor-Charging-and-Discharging-Simulation
-This project simulates the charging and discharging behavior of a capacitor in an RC circuit. It helps visualize time-dependent behavior of voltage using numerical methods and plots.
-# Capacitor Charging and Discharging Simulation
+# 🔋 Capacitor Charging and Discharging
 
-This Python project simulates the charging and discharging of a capacitor in an RC circuit. It uses numerical methods to show voltage over time and helps visualize capacitor behavior.
+This project simulates the behavior of a capacitor in an RC circuit.
 
-## How to Run
+## 📈 Example Output
 
-1. Install requirements:
-pip install -r requirements.txt
+![Voltage Plot](voltage_plot.png)
 
+## 📦 File Overview
 
-2. Run the simulation:
-python rc_circuit.py
+| File               | Purpose                            |
+|--------------------|-------------------------------------|
+| `rc_circuit.py`    | Core simulation script              |
+| `README.md`        | Project description and instructions|
+| `requirements.txt` | Dependencies                        |

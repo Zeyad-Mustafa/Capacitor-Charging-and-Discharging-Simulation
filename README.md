@@ -9,9 +9,3 @@ This project simulates the behavior of a capacitor in an RC circuit.
 ![discharging Plot] (discharging_plot.png)
 
 ## 📦 File Overview
-
-| File               | Purpose                            |
-|--------------------|-------------------------------------|
-| `rc_circuit.py`    | Core simulation script              |
-| `README.md`        | Project description and instructions|
-| `requirements.txt` | Dependencies                        |

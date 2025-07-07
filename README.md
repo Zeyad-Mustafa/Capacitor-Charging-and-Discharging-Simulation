@@ -74,7 +74,7 @@ python rc_circuit.py
 
 ---
 
-## 🧪 Requirements
+##  Requirements
 ```
 numpy
 matplotlib
@@ -82,10 +82,10 @@ matplotlib
 
 ---
 
-## 📚 License
+##  License
 This project is open-source and available under the MIT License.
 
 ---
 
-## 🙌 Credits
-Developed by Zeyad Mohammed Mustafa as a fun Python physics simulation project.
+##  Project
+Developed by me and helping from AI as a fun Python physics simulation project.❤️

@@ -2,7 +2,7 @@
 
 This Python project simulates the electrical behavior of a capacitor in a basic RC (resistor-capacitor) circuit. When a voltage source is applied to an RC circuit, the capacitor begins to charge, storing energy in its electric field. Once the source is removed, the capacitor discharges, releasing the stored energy through the resistor. This project aims to help learners and hobbyists visualize and understand these fundamental concepts in electronics.
 
----
+--- 
 
 ##  Goal of the Project
 
